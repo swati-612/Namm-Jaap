@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "654272191169",
+    "project_id": "naam-jaap-627ff",
+    "storage_bucket": "naam-jaap-627ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654272191169:android:f1c89f759ab4affa8fd240",
+        "android_client_info": {
+          "package_name": "com.example.naam_jaap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654272191169-7j1fbs3tuh9urskgo12jj08lv7em4mq0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEldyemDhVU0xLHl2_-j6GaStk6WsCibY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "654272191169-7j1fbs3tuh9urskgo12jj08lv7em4mq0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
